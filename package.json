@@ -1,0 +1,24 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiyaKalynovska/CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SofiyaKalynovska/CLI/issues"
+  },
+  "homepage": "https://github.com/SofiyaKalynovska/CLI#readme",
+  "dependencies": {
+    "calc-js": "^2.0.7"
+  }
+}
